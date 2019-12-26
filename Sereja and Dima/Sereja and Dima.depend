@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538108658 source:e:\college\competitive programming\sereja and dima\main.cpp
+	<iostream>
+	<cctype>
+	<vector>
+
